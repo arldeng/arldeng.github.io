@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://arldeng.github.io/2017/06/03/hello-world/</loc>
+    
+    <lastmod>2019-06-03T00:39:01.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://arldeng.github.io/2019/06/03/post-from-mac/</loc>
     
     <lastmod>2019-06-03T00:30:18.000Z</lastmod>
@@ -17,13 +24,6 @@
   
   <url>
     <loc>http://arldeng.github.io/2019/03/19/effectiveJava-reaction-1/</loc>
-    
-    <lastmod>2019-06-02T02:09:26.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://arldeng.github.io/2019/06/02/hello-world/</loc>
     
     <lastmod>2019-06-02T02:09:26.000Z</lastmod>
     
