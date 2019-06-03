@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Arldeng&#39;s Blog</title>
+  
+  <subtitle>wwwelcom~~ 哈哈</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://arldeng.github.io/"/>
+  <updated>2019-06-03T00:19:20.000Z</updated>
+  <id>http://arldeng.github.io/</id>
+  
+  <author>
+    <name>Arldneg</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>post from mac</title>
+    <link href="http://arldeng.github.io/2019/06/03/post-from-mac/"/>
+    <id>http://arldeng.github.io/2019/06/03/post-from-mac/</id>
+    <published>2019-06-03T00:18:06.000Z</published>
+    <updated>2019-06-03T00:19:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>##这是从mpb上发布的文章</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;##这是从mpb上发布的文章&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://arldeng.github.io/2019/06/02/hello-world/"/>
+    <id>http://arldeng.github.io/2019/06/02/hello-world/</id>
+    <published>2019-06-02T02:09:26.000Z</published>
+    <updated>2019-06-02T02:09:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>新开始</title>
+    <link href="http://arldeng.github.io/2019/06/02/%E6%96%B0%E5%BC%80%E5%A7%8B/"/>
+    <id>http://arldeng.github.io/2019/06/02/新开始/</id>
+    <published>2019-06-02T02:09:26.000Z</published>
+    <updated>2019-06-02T02:09:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;从今天开始，要好好维护这个博客！</p><p>&emsp;&emsp;十一假期结束了！打算好好用心维护这个博客，主要记录技术方面的东西（ucore、python、C语言等），因为发现很多东西学过后没记录的话很快就忘记了，再回头看跟没学过一样，今天做的不错，博客搭起来了，稍后看看代码就睡了，哈哈哈~</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&amp;emsp;&amp;emsp;从今天开始，要好好维护这个博客！&lt;/p&gt;
+&lt;p&gt;&amp;emsp;&amp;emsp;十一假期结束了！打算好好用心维护这个博客，主要记录技术方面的东西（ucore、python、C语言等），因为发现很多东西学过后没记录的话很快就忘记了，再回头看跟没学过一样，今天做
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>effectiveJava_reaction_1</title>
+    <link href="http://arldeng.github.io/2019/03/19/effectiveJava-reaction-1/"/>
+    <id>http://arldeng.github.io/2019/03/19/effectiveJava-reaction-1/</id>
+    <published>2019-03-19T15:07:23.000Z</published>
+    <updated>2019-06-02T02:09:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>###第一章 对象的创建与销毁</p><p>####Item1 多使用静态工厂方法创对象而不是构造函数</p><p>好处很多，比如名字更具可读性、单例模式等 </p><p>####Item2 当构造参数很多时考虑使用bulider</p><p>本质是类内部提供一个静态的Builder类并提供build方法，这样可以通过链式调用以及javabean的setter模式进行对象构建，更具可读性。</p><p><em>builder pattern有点类似于python中的可选参数构造</em></p><p><em>builder pattern 很适合类分层</em></p><p>pizza类分层的例子还没弄透，需要再查资料</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;###第一章 对象的创建与销毁&lt;/p&gt;
+&lt;p&gt;####Item1 多使用静态工厂方法创对象而不是构造函数&lt;/p&gt;
+&lt;p&gt;好处很多，比如名字更具可读性、单例模式等 &lt;/p&gt;
+&lt;p&gt;####Item2 当构造参数很多时考虑使用bulider&lt;/p&gt;
+&lt;p&gt;本质是类内部提供一个静
+      
+    
+    </summary>
+    
+      <category term="programming" scheme="http://arldeng.github.io/categories/programming/"/>
+    
+    
+      <category term="java" scheme="http://arldeng.github.io/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>回归</title>
+    <link href="http://arldeng.github.io/2019/03/12/%E5%9B%9E%E5%BD%92/"/>
+    <id>http://arldeng.github.io/2019/03/12/回归/</id>
+    <published>2019-03-12T10:42:07.000Z</published>
+    <updated>2019-06-02T02:09:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>三年没更新了，今天正式回归，以后内容少点水分，多点干活！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;三年没更新了，今天正式回归，以后内容少点水分，多点干活！&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="生活小记" scheme="http://arldeng.github.io/categories/%E7%94%9F%E6%B4%BB%E5%B0%8F%E8%AE%B0/"/>
+    
+    
+      <category term="life" scheme="http://arldeng.github.io/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RPi和hexo双电脑问题</title>
+    <link href="http://arldeng.github.io/2016/10/25/RPi%E5%92%8Chexo%E5%8F%8C%E7%94%B5%E8%84%91%E9%97%AE%E9%A2%98/"/>
+    <id>http://arldeng.github.io/2016/10/25/RPi和hexo双电脑问题/</id>
+    <published>2016-10-25T14:15:29.000Z</published>
+    <updated>2019-06-02T02:09:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天树莓派的环境彻底在mac上搭建了起来，下载了一个led闪的img运行成功；另一件事是想hexo博客在两台电脑上部署，查了下资料还比较麻烦，等有时间搞定它。  今天不错，nice day2 哈哈！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天树莓派的环境彻底在mac上搭建了起来，下载了一个led闪的img运行成功；另一件事是想hexo博客在两台电脑上部署，查了下资料还比较麻烦，等有时间搞定它。  今天不错，nice day2 哈哈！&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="programming" scheme="http://arldeng.github.io/categories/programming/"/>
+    
+    
+      <category term="树莓派" scheme="http://arldeng.github.io/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/"/>
+    
+      <category term="hexo" scheme="http://arldeng.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>今天干的不错！^_^</title>
+    <link href="http://arldeng.github.io/2016/10/24/%E4%BB%8A%E5%A4%A9%E5%B9%B2%E7%9A%84%E4%B8%8D%E9%94%99%EF%BC%81/"/>
+    <id>http://arldeng.github.io/2016/10/24/今天干的不错！/</id>
+    <published>2016-10-24T13:55:40.000Z</published>
+    <updated>2019-06-02T02:09:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li>今天把树莓派拿出来玩了下，发现可以在mac上搭建环境，很不错，针对mac下arm交叉编译工具链缺头文件的问题，搜索到了解决方案，分别是chrome书签里的mac/endian.h和嵌入式/gccARM。但是树莓派的系统镜像老是下载不下来，等下载下来跑一下系统试试。</li><li>今天另一件开心的事是ucore的开发环境在mac下搭建成功了，主要是make时没选对工具链，现在改成gcc4.9的工具链后可以完美编译！以后可以在mac上开发ucore了！<br>以后解决问题后要及时记录，不然过段时间就忘了！nice day！</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ol&gt;
+&lt;li&gt;今天把树莓派拿出来玩了下，发现可以在mac上搭建环境，很不错，针对mac下arm交叉编译工具链缺头文件的问题，搜索到了解决方案，分别是chrome书签里的mac/endian.h和嵌入式/gccARM。但是树莓派的系统镜像老是下载不下来，等下载下来跑一下系统试试
+      
+    
+    </summary>
+    
+      <category term="programming" scheme="http://arldeng.github.io/categories/programming/"/>
+    
+    
+      <category term="编译环境" scheme="http://arldeng.github.io/tags/%E7%BC%96%E8%AF%91%E7%8E%AF%E5%A2%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python抓去烟台小区数据</title>
+    <link href="http://arldeng.github.io/2016/10/23/python%E6%8A%93%E5%8E%BB%E7%83%9F%E5%8F%B0%E5%B0%8F%E5%8C%BA%E6%95%B0%E6%8D%AE/"/>
+    <id>http://arldeng.github.io/2016/10/23/python抓去烟台小区数据/</id>
+    <published>2016-10-23T13:40:11.000Z</published>
+    <updated>2019-06-02T02:09:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><p>mac 下mongodb启动方式：</p><ol><li>login时自动启动 brew services start mongodb </li><li>手动启动 mongod –config /usr/local/etc/mongod.conf</li></ol></li><li><p>python3 虚拟环境的使用</p></li></ul><p>创建虚拟环境 python3 -m venv venvname</p><p>进入虚拟环境 source venvname/bin/activate</p><p>退出虚拟环境 deactivate</p><p>今天做的比较少。。不过加油！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;mac 下mongodb启动方式：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;login时自动启动 brew services start mongodb &lt;/li&gt;
+&lt;li&gt;手动启动 mongod –config /usr/local/etc/mongod.conf&lt;/
+      
+    
+    </summary>
+    
+      <category term="programming" scheme="http://arldeng.github.io/categories/programming/"/>
+    
+    
+      <category term="python3" scheme="http://arldeng.github.io/tags/python3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>重拾ucore</title>
+    <link href="http://arldeng.github.io/2016/10/09/%E9%87%8D%E6%8B%BEucore/"/>
+    <id>http://arldeng.github.io/2016/10/09/重拾ucore/</id>
+    <published>2016-10-09T14:25:19.000Z</published>
+    <updated>2019-06-02T02:09:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天重新复习了下当初ucore lab1、2记录的笔记，打算这个周把之前的知识重新梳理，彻底理清并串联起来，以前记得还是有一定用处。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天重新复习了下当初ucore lab1、2记录的笔记，打算这个周把之前的知识重新梳理，彻底理清并串联起来，以前记得还是有一定用处。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="http://arldeng.github.io/categories/programming/"/>
+    
+    
+      <category term="ucore" scheme="http://arldeng.github.io/tags/ucore/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python挖掘机（三、四）</title>
+    <link href="http://arldeng.github.io/2016/10/08/python%E6%8C%96%E6%8E%98%E6%9C%BA%EF%BC%88%E4%B8%89%E3%80%81%E5%9B%9B%EF%BC%89/"/>
+    <id>http://arldeng.github.io/2016/10/08/python挖掘机（三、四）/</id>
+    <published>2016-10-08T14:27:36.000Z</published>
+    <updated>2019-06-02T02:09:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天主要解决了python在爬取豆瓣电影信息时，正则表达式卡死的问题，是r’ &lt;之间需要一个空格，很奇怪的问题，暂时不清楚为啥需要，已经问作者了等待答复。慢慢学习python爬虫吧！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天主要解决了python在爬取豆瓣电影信息时，正则表达式卡死的问题，是r’ &amp;lt;之间需要一个空格，很奇怪的问题，暂时不清楚为啥需要，已经问作者了等待答复。慢慢学习python爬虫吧！&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="http://arldeng.github.io/categories/programming/"/>
+    
+    
+      <category term="python" scheme="http://arldeng.github.io/tags/python/"/>
+    
+      <category term="正则" scheme="http://arldeng.github.io/tags/%E6%AD%A3%E5%88%99/"/>
+    
+  </entry>
+  
+</feed>
